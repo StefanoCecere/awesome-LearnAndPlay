@@ -1,6 +1,9 @@
 # Awesome Learn And Play
 A curated list of games to play to learn to play. For kids, teens and adults.
 
+## learn to read
+### Arabic
+[Antura and the Letters](http://www.antura.org)
 
 
 ## License
